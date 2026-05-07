@@ -3,7 +3,17 @@
 [cite_start]A professional frontend application for educational environments where teachers upload subject-based content and principals manage approvals[cite: 6].
 
 ## 🚀 Live Demo
-**Link:** [Apna Render Link Yahan Paste Karein]
+**Link:** https://content-broadcasting-system-byh1.onrender.com
+## 🔐 Test Credentials
+
+To test the role-based access and dashboard features, you can use the following pre-configured accounts:
+
+| Role      | Email                  | Password |
+|-----------|------------------------|----------|
+| **Teacher** | `teacher@gmail.com`   | `123456` |
+| **Principal** | `principal@gmail.com` | `123456` |
+
+> **Note:** The Teacher account can upload content and view their own status, while the Principal account has access to the approval workflow and rejection modals.
 
 ## 🛠️ Tech Stack
 - [cite_start]**Framework:** Next.js / React.js [cite: 4, 65]
