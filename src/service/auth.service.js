@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://3.25.255.219:5000",
+  baseURL: "https://content-broadcarsting-system.onrender.com",
 });
 
 // Register
