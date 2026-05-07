@@ -1,16 +1,20 @@
-# React + Vite
+# Content Broadcasting System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[cite_start]A professional frontend application for educational environments where teachers upload subject-based content and principals manage approvals[cite: 6].
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+**Link:** [Apna Render Link Yahan Paste Karein]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Tech Stack
+- [cite_start]**Framework:** Next.js / React.js [cite: 4, 65]
+- [cite_start]**Styling:** Tailwind CSS & shadcn/ui [cite: 4, 68]
+- [cite_start]**Validation:** Zod & React Hook Form [cite: 69, 70]
+- [cite_start]**State Management:** React Context API [cite: 86]
+- **Icons:** Lucide React
 
-## React Compiler
+## 📦 Setup Instructions
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone the repository:**
+   ```bash
+   git clone samarthsharma52
+   cd <folder-name>
